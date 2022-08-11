@@ -19,10 +19,10 @@ DefenderDao , its a Decentralized Autonomous Organization, the main goal is prot
 DefenderDao project , its a non production project demostrating a Dao functionality , the project was done with help Openzeppelin library , the logic for the DAO is follow:
 
 - User fill a form  for join the DAO and grab tokens
-- User have a metemask wallet and use rinkeby tesnet
+- User have a metemask wallet and use rinkeby testnet
 - User connect wallet to our Dapp or Tally 
-- User delegate votes himself or another wallet .
-- User start voting a proposal.
+- User delegate votes himself or  to another wallet .
+- User start voting or creating a  proposal.
 
  
 
