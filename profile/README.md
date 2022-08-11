@@ -108,6 +108,8 @@ Start the server
 
 - Unit testing 
 
+- Build Treasury
+
 
 ## Authors
 
