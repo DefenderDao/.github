@@ -1,7 +1,7 @@
 
 # Defender Dao
 
-DefenderDao , its a Decentralized Autonomous Organization, the main goal is protect the Web3 ecosystem from scammers and malicious bad actors , allowing Defenders vote for blacklisted and build a decentralized database including phishing Urls , scam tokens and  any  bad actor who can in risk the ecosystem users.  
+DefenderDao , its a Decentralized Autonomous Organization, the main goal is protect the Web3 ecosystem from scammers and malicious bad actors , allowing Defenders vote for blacklisted and build a decentralized database including phishing Urls , scam tokens and  any  bad actor who put in risk the ecosystem users.  
 
 
 ## Features
